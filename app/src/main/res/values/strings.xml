@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ScrollView-RD</string>
+    <string name="hiii_its_random_duo">Hiii its random Duo,We are youtubers we do videos and tutorials to help you
+    Featured Android Development Courses
+The Complete Android N Developer Course
+4.5/5 Stars || 32 Hours of Video || 82,016 Students
+Become a professional android app developer with Android 7 Nougat by building real apps! Submit your apps to Google Play and generate revenue with Google Pay and Google Ads. Learn More.
+The Complete Android and Java Developer Course — Build 21 Apps
+4.4/5 Stars || 56.5 Hours of Video || 23,218 Students
+Learn Android development, Java programming, and Android studio from scratch! Create fun, engaging and real world Android apps using Java that you can show to the world. Learn how to work with APIs, web services and
+    Read this introduction to Firebase MLKit and explore each of its capabilities on Android development. Stay tuned over the coming weeks as we dive into each of these.
+    </string>
+    <string name="button">Button</string>
+</resources>
